@@ -6,6 +6,6 @@ visualisations. The goal is to help procurement teams identify high performing v
 Track on-time delivery rate, quality score and cost efficency of vendors.atoumate reporting pipline, generate actonable insights for procrument stratergy
 # Data source-
 1) Database: Procurement and purchase order data (MYSQL),
-2) 2)APIs: ERP system vendore performance data
+2) APIs: ERP system vendore performance data
 # Tech stack-
  1) SQL: data extarction, transformation, and cleaning. 2) Python(pandas, matplotlib,seaborn): Data processing and stastical analysis. 3) Power BI: dashboard creation and visualization 
